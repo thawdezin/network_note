@@ -73,5 +73,7 @@ For compilers to find libpcap you may need to set:
   ```export CPPFLAGS="-I/opt/homebrew/opt/libpcap/include"```
 
 
+# libpcap ကို ./build.sh နဲ့ install လုပ်
+
 
 
