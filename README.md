@@ -76,4 +76,13 @@ For compilers to find libpcap you may need to set:
 # libpcap ကို ./build.sh နဲ့ install လုပ်
 
 
+### CMakeLists.txt ထဲက {} တွေ နေရာမှန်ဖို့လို
+
+``` export ANDROID_NDK=/Users/thawdezin/Library/Android/sdk/ndk ```
+``` export API_VERSION=21   ```
+``` export ANDROID_ABI=armeabi-v7a ```
+``` export LIBPCAP_DIR=/Users/thawdezin/tdz/libpcap ```
+
+
+
 
